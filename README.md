@@ -127,21 +127,17 @@ python sorting_visualizer.py
 
 ### Bubble Sort
 
-```
-screenshots/bubble_sort.png
-```
+![Sorting Visualizer](https://github.com/KashaveniSruthi/bubble_sort/blob/main/bubble_sort.png)
 
 ### Selection Sort
 
-```
-screenshots/selection_sort.png
-```
+
+![Sorting Visualizer](https://github.com/KashaveniSruthi/selection sort/blob/main/selection sort.png)
 
 ### Insertion Sort
 
-```
-screenshots/insertion_sort.png
-```
+
+![Sorting Visualizer](https://github.com/KashaveniSruthi/insertion sort/blob/main/insertion sort.png)
 
 ---
 
