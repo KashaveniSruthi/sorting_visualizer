@@ -127,7 +127,7 @@ python sorting_visualizer.py
 
 ### Bubble Sort
 
-![Sorting Visualizer](https://github.com/KashaveniSruthi/bubble_sort/blob/main/bubble_sort.png)
+![Sorting Visualizer](https://github.com/KashaveniSruthi/sorting_visualizer/blob/main/bubble_sort.png)
 
 ### Selection Sort
 
