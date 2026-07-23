@@ -1,5 +1,3 @@
-
-# Modified Sorting Visualizer
 import tkinter as tk
 import random
 
