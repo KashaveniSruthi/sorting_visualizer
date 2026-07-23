@@ -121,9 +121,9 @@ python sorting_visualizer.py
 
 ### Home Screen
 
-```
-![Sorting Visualizer](https://github.com/KashaveniSruthi/sorting_visualizer/blob/main/sorting_visualizer.png?raw=true)
-```
+
+![Sorting Visualizer](https://github.com/KashaveniSruthi/sorting_visualizer/blob/main/sorting_visualizer.png)
+
 
 ### Bubble Sort
 
