@@ -169,5 +169,3 @@ Some features that can be added in future versions include:
 * Color highlighting for comparisons and sorted elements
 
 ---
-
-or learning and educational purposes. Feel free to use or modify it for your own practice.
