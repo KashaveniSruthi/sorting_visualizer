@@ -118,7 +118,7 @@ python sorting_visualizer.py
 
 ## Screenshots
 
-Add screenshots of your application here.
+![Sorting Visualizer)(https://github.com/KashaveniSruthi/sorting_visualizer/blob/main/sorting_visualizer.png)
 
 ### Home Screen
 
