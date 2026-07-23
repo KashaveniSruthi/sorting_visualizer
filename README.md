@@ -118,12 +118,11 @@ python sorting_visualizer.py
 
 ## Screenshots
 
-![Sorting Visualizer)(https://github.com/KashaveniSruthi/sorting_visualizer/blob/main/sorting_visualizer.png)
 
 ### Home Screen
 
 ```
-screenshots/home.png
+![Sorting Visualizer](https://github.com/KashaveniSruthi/sorting_visualizer/blob/main/sorting_visualizer.png)
 ```
 
 ### Bubble Sort
